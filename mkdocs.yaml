@@ -1,10 +1,10 @@
 ---
-site_name: Ceu Da Luz de Jesus -  Gesangbücher
-site_description: These document is teil unsere seite für Gesangbücher
+site_name: Freude am Singen -  Gesangbücher
+site_description: Unsere seite für Gesangbücher
 site_author: Rolf Guescini
 docs_dir: docs/
-repo_name: Ceu-Da-Luz-De-Jesus/hinarien
-repo_url: https://github.com/Ceu-Da-Luz-De-Jesus/hinarien
+repo_name: Freude-am-singen/hinarien
+repo_url: https://github.com/Freude-am-singen/hinarien
 nav:
   - Home: index.md
   - Gesangbücher:
@@ -63,8 +63,3 @@ theme:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-
-
-
-copyright: |
-  &copy; 2025 <a href="https://github.com/guescinr" target="_blank" rel="noopener">Rolf Guescini</a>
