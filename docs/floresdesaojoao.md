@@ -1,7 +1,9 @@
 # Christina Tati  - Flores de São João
 
 ## Hinario - Buchlein
-Den Text zum Singen findet ihr in der Datei [Flores de Sao Joao A5.pdf](https://github.com/Freude-am-singen/hinarien/raw/384ffb8e57be67a73f077285ac3a0ae8352b64e1/Christina_Tati/Flores_De_Sao_Joao/Flores_de_Sao_Joao_A5_PT_EN.pdf). Zum Ausdrucken ist das Format DIN - A5. 
+Den Text zum Singen findet ihr in der Datei 
+[Flores de Sao Joao A5.pdf](https://raw.githubusercontent.com/Freude-am-singen/hinarien/main/Christina_Tati/Flores_De_Sao_Joao/Flores_de_Sao_Joao_A5_PT_EN.pdf)
+Zum Ausdrucken ist das Format DIN - A5. 
 
 Die Hymnen, die in alten Versionen des Hinario nicht enthalten sind, findet ihr in der Datei [Flores de Sao Joao New Hinos.pdf](https://raw.githubusercontent.com/Freude-am-singen/hinarien/main/Christina_Tati/Flores_De_Sao_Joao/Flores_de_Sao_Joao_New_Hinos.pdf). Zum Ausdrucken ist das Format DIN - A5. 
 
