@@ -1,16 +1,8 @@
 # Wunder - Berliner Liederbuch
 
 ## Hinario - Buchlein
-Den Text zum Singen findet ihr in der Datei [Iemanja.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/raw/main/Iemanja/Iemanja.pdf).
-
-### Neue Hymnen
-Den Text zum Singen findet ihr in der Datei [Iemanja.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/raw/main/Iemanja/Iemanja_Hinos_Novos_A5_Cantadores.pdf)
+Den Text zum Singen findet ihr in der Datei [Iemanja.pdf](https://raw.githubusercontent.com/Freude-am-singen/hinarien/7b5a1aefe5a86bbd822b0c48ee85d30447c97f5d/Wunder_Berliner_Liederbuch/Wunder_CdldJ.pdf).
 
 
 ## Aufnahme
-[Iemanjá DropBox](https://www.dropbox.com/scl/fo/ntxghng9qswhowmc10k40/AG9r-IjzD1JflzVEmtZXALM?rlkey=f8ir2fd02z93dwdx63ksh3vjw&st=8m46orxj&dl=0)
-
-## Aufnahme Hinos Novos
-* [Rainha das Águas: Adrian Freedman](https://soundcloud.com/adrianfreedman/36-rainha-das-guas)
-* [Água Imensa: Polyxeni Aklidi](https://soundcloud.com/polyxeni-aklidi/agua-imensa)
-* [Yemanjá: Egon Nord](https://soundcloud.com/igreja-mestre-irineu/17-yemanja?in=igreja-mestre-irineu/sets/hinario-mensageiros-das-estrelas-padrinho-egon-nord)
+Im Bau
