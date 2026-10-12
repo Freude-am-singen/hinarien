@@ -26,6 +26,7 @@ nav:
           - Hinario de Santa Maria: santamaria.md
           - Oração - Concentração: oracaoconcentracao.md
           - Trabalho de São Miguel: trabalhosaomiguel.md
+		  - Wunder - Berliner LiederBuch: wunder.md
 theme:
   name: material
   features:
