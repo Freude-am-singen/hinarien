@@ -8,18 +8,20 @@ repo_url: https://github.com/Freude-am-singen/hinarien
 nav:
   - Home: index.md
   - Gesangbücher:
-      - Caparelli Nilton: caparelli.md
-      - Christina Tati:
-          - Flores de São João: floresdesaojoao.md
-      - Glauco Vilas Boas: glauco.md
-      - Mestre Irineu:
-          - O Cruzeiro Auswahl: mestre.md
-          - Hymnsrium Heiliges Kreuz: mestre_de.md
       - Padrinho Alfredo:
           - Nova Dimensão: novadimensao.md
+      - Glauco Vilas Boas: glauco.md
+      - Caparelli Nilton: caparelli.md
+      - Mestre Irineu:
+          - O Cruzeiro Auswahl: mestre.md
+          - Hymnarium Heiliges Kreuz: mestre_de.md
+      - Pd. Ze Ricardo:
+          - Fluente Luz Universal: zericardo.md
       - Md. Sophie:
           - O amor Infinito: oamorinfinito.md
           - Mimosa Flor: mimosaflor.md
+      - Christina Tati:
+          - Flores de São João: floresdesaojoao.md
       - Gesangbuchsammlungen:
           - Cura: cura.md
           - Iemanjá: iemanja.md
